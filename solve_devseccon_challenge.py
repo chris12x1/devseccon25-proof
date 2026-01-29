@@ -14,7 +14,7 @@ GET_URL = BASE + "/api/challenge"
 POST_URL = BASE + "/api/challenge"
 
 # Canonical OWASP Top-10 for LLMs (target order).
-# If you want to change titles, edit these to match the OWASP canonical titles exactly.
+
 CANONICAL = [
     "Prompt Injection",                      # LLM01
     "Sensitive Information Disclosure",     # LLM02
@@ -133,3 +133,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
