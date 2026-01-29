@@ -38,6 +38,9 @@ The script demonstrates:
 
 - `leaderboard_top5.png`  
   Supporting proof of the leaderboard placement
+
+- `proof.json`
+  Proof of the script working and my token to claim my reward
  
 ---
 
